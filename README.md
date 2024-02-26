@@ -3,6 +3,8 @@
 
 * 🌱 I’m currently attending the Bright Network Tech Academy [BNTA Lab](https://github.com/stars/Aebel-Shajan/lists/bright-network-tech-academy-lab)
 
+![](https://emoji.slack-edge.com/T036NTMRPCK/baby-yoda/9c7e10a74ab26054.gif)![](https://emoji.slack-edge.com/T036NTMRPCK/baby-yoda/9c7e10a74ab26054.gif)![](https://emoji.slack-edge.com/T036NTMRPCK/baby-yoda/9c7e10a74ab26054.gif)
+
 Check out my past projects:
 * [aebel-shajan.github.io](https://aebel-shajan.github.io)
 * [Subway Surfers Screen Reader](https://chromewebstore.google.com/detail/subway-surfers-screen-rea/jcijfneifjnhbgahlokgkmpcnocgpegd)
