@@ -1,7 +1,7 @@
 ### Helloo 🙋‍♂️. My name's Aebel (pronounced ay-bl).
 
 
-* 🌱 I’m currently attending the Bright Network Tech Academy [BNTA Lab](https://github.com/stars/Aebel-Shajan/lists/bright-network-tech-academy-lab)
+* 🌱 I’m currently attending the Bright Network Tech Academy [BNTA Lab](https://github.com/stars/Aebel-Shajan/lists/bnta-labs)
 
 ![](https://emoji.slack-edge.com/T036NTMRPCK/baby-yoda/9c7e10a74ab26054.gif)![](https://emoji.slack-edge.com/T036NTMRPCK/baby-yoda/9c7e10a74ab26054.gif)![](https://emoji.slack-edge.com/T036NTMRPCK/baby-yoda/9c7e10a74ab26054.gif)
 
