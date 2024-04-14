@@ -7,11 +7,15 @@
 ![](https://emoji.slack-edge.com/T036NTMRPCK/baby-yoda/9c7e10a74ab26054.gif)
 
 #### 🔭 Check out my past projects:
-* [aebel-shajan.github.io](https://aebel-shajan.github.io)
-* [Subway Surfers Screen Reader](https://chromewebstore.google.com/detail/subway-surfers-screen-rea/jcijfneifjnhbgahlokgkmpcnocgpegd)
-* [FreeCodeCamp Sidepanel Extension](https://chromewebstore.google.com/detail/contents-panel-for-fcc/cmogdnmmkblhlbdbppfahmclekapmdjo)
-* [Driftin Deliveries](https://driftin-deliveries.vercel.app/)
-* [Java Chatroom API](https://github.com/Aebel-Shajan/Conversa_API)
+* [aebel-shajan.github.io](https://aebel-shajan.github.io) - [Source code](https://github.com/Aebel-Shajan/Aebel-Shajan.github.io)
+* [Subway Surfers Screen Reader](https://chromewebstore.google.com/detail/subway-surfers-screen-rea/jcijfneifjnhbgahlokgkmpcnocgpegd) - [Source code](https://github.com/Aebel-Shajan/subway_surfers_screen_reader)
+* [FreeCodeCamp Sidepanel Extension](https://chromewebstore.google.com/detail/contents-panel-for-fcc/cmogdnmmkblhlbdbppfahmclekapmdjo) - [Source code](https://github.com/Aebel-Shajan/FreeCodeCamp-Contents-Chrome-Extension)
+* [Driftin Deliveries](https://driftin-deliveries.vercel.app/) - [Source code](https://github.com/Aebel-Shajan/Driftin-Deliveries)
+* [Java Chatroom API](https://github.com/Aebel-Shajan/Conversa_API) 
+* [React Chatroom Frontend](https://github.com/osamui01/blether-frontend)
+
+#### 🧑‍💻 I'm currently working on:
+* [RainforestRetail Delivery Fullstack Application](https://github.com/Jean-005/Capstone_Project)
 
 #### 👯 I’m looking to collaborate!
 * [Art Gallery](https://github.com/Aebel-Shajan/BNTA-Art-Gallery)
