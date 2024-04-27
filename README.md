@@ -1,10 +1,7 @@
 # Helloo 🙋‍♂️. My name's Aebel (pronounced ay-bl).
 
-
-#### 🌱 I’m currently attending the Bright Network Tech Academy 
+#### 🌳 I’ve completed Bright Network Tech Academy :)
 * [BNTA Lab](https://github.com/stars/Aebel-Shajan/lists/bnta-labs)
-
-![](https://emoji.slack-edge.com/T036NTMRPCK/baby-yoda/9c7e10a74ab26054.gif)
 
 #### 🔭 Check out my past projects:
 * [aebel-shajan.github.io](https://aebel-shajan.github.io) - [Source code](https://github.com/Aebel-Shajan/Aebel-Shajan.github.io)
@@ -13,9 +10,10 @@
 * [Driftin Deliveries](https://driftin-deliveries.vercel.app/) - [Source code](https://github.com/Aebel-Shajan/Driftin-Deliveries)
 * [Java Chatroom API](https://github.com/Aebel-Shajan/Conversa_API) 
 * [React Chatroom Frontend](https://github.com/osamui01/blether-frontend)
+* [RainforestRetail Delivery Fullstack Application](https://github.com/Jean-005/Capstone_Project)
 
 #### 🧑‍💻 I'm currently working on:
-* [RainforestRetail Delivery Fullstack Application](https://github.com/Jean-005/Capstone_Project)
+* [75-day-challenge-app](https://github.com/osamui01/75-hard-backend)
 
 #### 👯 I’m looking to collaborate!
 * [Art Gallery](https://github.com/Aebel-Shajan/BNTA-Art-Gallery)
