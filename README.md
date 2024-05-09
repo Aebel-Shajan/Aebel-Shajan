@@ -1,22 +1,14 @@
 # Helloo 🙋‍♂️. My name's Aebel (pronounced ay-bl).
 
-#### 🌳 I’ve completed Bright Network Tech Academy :)
-* [BNTA Lab](https://github.com/stars/Aebel-Shajan/lists/bnta-labs)
-
 #### 🔭 Check out my past projects:
 * [aebel-shajan.github.io](https://aebel-shajan.github.io) - [Source code](https://github.com/Aebel-Shajan/Aebel-Shajan.github.io)
 * [Subway Surfers Screen Reader](https://chromewebstore.google.com/detail/subway-surfers-screen-rea/jcijfneifjnhbgahlokgkmpcnocgpegd) - [Source code](https://github.com/Aebel-Shajan/subway_surfers_screen_reader)
 * [FreeCodeCamp Sidepanel Extension](https://chromewebstore.google.com/detail/contents-panel-for-fcc/cmogdnmmkblhlbdbppfahmclekapmdjo) - [Source code](https://github.com/Aebel-Shajan/FreeCodeCamp-Contents-Chrome-Extension)
 * [Driftin Deliveries](https://driftin-deliveries.vercel.app/) - [Source code](https://github.com/Aebel-Shajan/Driftin-Deliveries)
-* [Java Chatroom API](https://github.com/Aebel-Shajan/Conversa_API) 
-* [React Chatroom Frontend](https://github.com/osamui01/blether-frontend)
-* [RainforestRetail Delivery Fullstack Application](https://github.com/Jean-005/Capstone_Project)
 
 #### 🧑‍💻 I'm currently working on:
 * [75-day-challenge-app](https://github.com/osamui01/75-hard-backend)
 
-#### 👯 I’m looking to collaborate!
-* [Art Gallery](https://github.com/Aebel-Shajan/BNTA-Art-Gallery)
 
 #### 🍳 Skills
 **Languages**\
