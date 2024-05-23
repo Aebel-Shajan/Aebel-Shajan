@@ -1,9 +1,6 @@
 # Helloo  <img  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXdkb2xkY2QwYm56eTk5YzFyc2d5ZmpxcG9renZmMjRqcXN1dzB3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sNC71wDxPr0CgGB8zX/giphy.gif" width="64" height="64" frameBorder="0" class="giphy-embed" allowFullScreen/> 
 # My name's Aebel (pronounced ay-bl).
 
-
-#### 🧑‍💻 I'm currently working on: [75-day-challenge-app](https://github.com/osamui01/75-hard-backend)
-
 #### 🔭 Check out my past projects:
 | 🧩 Project | |
 |-|-|
