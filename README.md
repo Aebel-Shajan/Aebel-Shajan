@@ -4,6 +4,7 @@
 #### 🔭 Check out my past projects:
 | 🧩 Project | |
 |-|-|
+|[Scroll Minimap for ChatGPT](https://chromewebstore.google.com/detail/scroll-minimap-for-chatgp/apekbedjllgmacohbcckgipfhjddehkf?hl=en&authuser=0) | [Source code](https://github.com/Aebel-Shajan/scroll-minimap-for-chatgpt) |
 |[aebel-shajan.github.io](https://aebel-shajan.github.io) | [Source code](https://github.com/Aebel-Shajan/Aebel-Shajan.github.io) |
 |[Subway Surfers Screen Reader](https://chromewebstore.google.com/detail/subway-surfers-screen-rea/jcijfneifjnhbgahlokgkmpcnocgpegd) | [Source code](https://github.com/Aebel-Shajan/subway_surfers_screen_reader) |
 |[FreeCodeCamp Sidepanel Extension](https://chromewebstore.google.com/detail/contents-panel-for-fcc/cmogdnmmkblhlbdbppfahmclekapmdjo) | [Source code](https://github.com/Aebel-Shajan/FreeCodeCamp-Contents-Chrome-Extension) |
