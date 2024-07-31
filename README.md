@@ -2,7 +2,7 @@
 # My name's Aebel (pronounced ay-bl).
 
 #### 🧑‍💻 I am currently working on:
-[Nemo Movies](https://github.com/Aebel-Shajan/nemo-movies)
+[Connect Cards](https://github.com/Aebel-Shajan/connect-cards)
 
 #### 🔭 Check out my past projects:
 | 🧩 Project | |
