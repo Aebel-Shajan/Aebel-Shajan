@@ -2,11 +2,12 @@
 # My name's Aebel (pronounced ay-bl).
 
 #### 🧑‍💻 I am currently working on:
-[Connect Cards](https://github.com/Aebel-Shajan/connect-cards)
+[Bright Tasks](https://github.com/KajananGit/To-Do-List)
 
 #### 🔭 Check out my past projects:
 | 🧩 Project | |
 |-|-|
+|[Connect Cards](https://connect-cards.vercel.app/)|[Source code](https://github.com/Aebel-Shajan/connect-cards)|
 |[Gym Data Analysis](https://strong.streamlit.app/) | [Source code](https://github.com/Aebel-Shajan/gym-data-analysis)
 |[Scroll Minimap for ChatGPT](https://chromewebstore.google.com/detail/scroll-minimap-for-chatgp/apekbedjllgmacohbcckgipfhjddehkf?hl=en&authuser=0) | [Source code](https://github.com/Aebel-Shajan/scroll-minimap-for-chatgpt) |
 |[aebel-shajan.github.io](https://aebel-shajan.github.io) | [Source code](https://github.com/Aebel-Shajan/Aebel-Shajan.github.io) |
