@@ -42,11 +42,11 @@
   <!-- Project deployments -->
   [dep-1]: https://connect-cards.vercel.app
   [dep-2]: https://strong.streamlit.app
-  [dep-3]: https://connect-cards.vercel.app
-  [dep-4]: https://connect-cards.vercel.app
-  [dep-5]: https://connect-cards.vercel.app
-  [dep-6]: https://connect-cards.vercel.app
-  [dep-7]: https://connect-cards.vercel.app
+  [dep-3]: https://chromewebstore.google.com/detail/scroll-minimap-for-chatgp/apekbedjllgmacohbcckgipfhjddehkf
+  [dep-4]: https://aebel-shajan.github.io/
+  [dep-5]: https://chromewebstore.google.com/detail/subway-surfers-screen-rea/jcijfneifjnhbgahlokgkmpcnocgpegd
+  [dep-6]: https://chromewebstore.google.com/detail/contents-panel-for-fcc/cmogdnmmkblhlbdbppfahmclekapmdjo
+  [dep-7]: https://driftin-deliveries.vercel.app/
   
   <!-- Project links -->
   [src-1]:https://github.com/Aebel-Shajan/connect-cards
