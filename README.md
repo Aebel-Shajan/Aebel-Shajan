@@ -1,22 +1,29 @@
 # Helloo  <img  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXdkb2xkY2QwYm56eTk5YzFyc2d5ZmpxcG9renZmMjRqcXN1dzB3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sNC71wDxPr0CgGB8zX/giphy.gif" width="64" height="64" frameBorder="0" class="giphy-embed" allowFullScreen/> 
 # My name's Aebel (pronounced ay-bl).
 
+
 #### 🧑‍💻 I am currently working on:
 [Bright Tasks](https://github.com/KajananGit/To-Do-List)
 
 #### 🔭 Check out my past projects:
-| 🧩 Project | |
+
+| [![][img-1]][dep-1] | [![][img-2]][dep-2] |
 |-|-|
-|[Connect Cards](https://connect-cards.vercel.app)|[Source code](https://github.com/Aebel-Shajan/connect-cards)|
-|[Gym Data Analysis](https://strong.streamlit.app/) | [Source code](https://github.com/Aebel-Shajan/gym-data-analysis)
-|[Scroll Minimap for ChatGPT](https://chromewebstore.google.com/detail/scroll-minimap-for-chatgp/apekbedjllgmacohbcckgipfhjddehkf?hl=en&authuser=0) | [Source code](https://github.com/Aebel-Shajan/scroll-minimap-for-chatgpt) |
-|[aebel-shajan.github.io](https://aebel-shajan.github.io) | [Source code](https://github.com/Aebel-Shajan/Aebel-Shajan.github.io) |
-|[Subway Surfers Screen Reader](https://chromewebstore.google.com/detail/subway-surfers-screen-rea/jcijfneifjnhbgahlokgkmpcnocgpegd) | [Source code](https://github.com/Aebel-Shajan/subway_surfers_screen_reader) |
-|[FreeCodeCamp Sidepanel Extension](https://chromewebstore.google.com/detail/contents-panel-for-fcc/cmogdnmmkblhlbdbppfahmclekapmdjo) | [Source code](https://github.com/Aebel-Shajan/FreeCodeCamp-Contents-Chrome-Extension) |
-|[Driftin Deliveries](https://driftin-deliveries.vercel.app/) | [Source code](https://github.com/Aebel-Shajan/Driftin-Deliveries) |
+|<img width=10000/> [![][github-badge]][src-1] |<img width=10000/> [![][github-badge]][src-2] |
+
+| [![][img-3]][dep-3] | [![][img-4]][dep-4] |
+|-|-|
+|<img width=10000/> [![][github-badge]][src-3] |<img width=10000/> [![][github-badge]][src-4] |
+
+| [![][img-5]][dep-5] | [![][img-6]][dep-6] |
+|-|-|
+|<img width=10000/> [![][github-badge]][src-5] |<img width=10000/> [![][github-badge]][src-6] |
+
+| [![][img-7]][dep-7] | |
+|-|-|
+|<img width=10000/> [![][github-badge]][src-1] |<img width=10000/> |
 
 
-[connect-cards]: https://connect-cards.vercel.app/ 
 #### 
 |🍳 Skills||
 |-|-|
@@ -32,26 +39,36 @@
 
 
 <!-- Assets -->
+  <!-- Project deployments -->
+  [dep-1]: https://connect-cards.vercel.app
+  [dep-2]: https://strong.streamlit.app
+  [dep-3]: https://connect-cards.vercel.app
+  [dep-4]: https://connect-cards.vercel.app
+  [dep-5]: https://connect-cards.vercel.app
+  [dep-6]: https://connect-cards.vercel.app
+  [dep-7]: https://connect-cards.vercel.app
+  
   <!-- Project links -->
-  [connect-cards-src]:https://github.com/Aebel-Shajan/connect-cards
-  [gym-data-analysis-src]:https://github.com/Aebel-Shajan/gym-data-analysis
-  [scroll-minimap-for-chatgpt-src]:https://github.com/Aebel-Shajan/scroll-minimap-for-chatgpt
-  [personal-website-src]:https://github.com/Aebel-Shajan/aebel-shajan.github.io
-  [subway-surfers-screen-reader-src]:https://github.com/Aebel-Shajan/subway_surfers_screen_reader
-  [fcc-sidepanel-src]:https://github.com/Aebel-Shajan/FreeCodeCamp-Contents-Chrome-Extension
-  [driftin-deliveries-src]:https://github.com/Aebel-Shajan/Driftin-Deliveries
+  [src-1]:https://github.com/Aebel-Shajan/connect-cards
+  [src-2]:https://github.com/Aebel-Shajan/gym-data-analysis
+  [src-3]:https://github.com/Aebel-Shajan/scroll-minimap-for-chatgpt
+  [src-4]:https://github.com/Aebel-Shajan/aebel-shajan.github.io
+  [src-5]:https://github.com/Aebel-Shajan/subway_surfers_screen_reader
+  [src-6]:https://github.com/Aebel-Shajan/FreeCodeCamp-Contents-Chrome-Extension
+  [src-7]:https://github.com/Aebel-Shajan/Driftin-Deliveries
 
   <!-- Project thumbnails -->
-  [connect-cards-img]:https://raw.github.com/Aebel-Shajan/connect-cards/main/thumbnail.png
-  [gym-data-analysis-img]:https://raw.github.com/Aebel-Shajan/gym-data-analysis/main/thumbnail.png
-  [scroll-minimap-for-chatgpt-img]:https://raw.github.com/Aebel-Shajan/scroll-minimap-for-chatgpt/main/thumbnail.png
-  [personal-website-img]:https://raw.github.com/Aebel-Shajan/aebel-shajan.github.io/main/thumbnail.png
-  [subway-surfers-screen-reader-img]:https://raw.github.com/Aebel-Shajan/subway_surfers_screen_reader/main/thumbnail.png
-  [fcc-sidepanel-img]:https://raw.github.com/Aebel-Shajan/FreeCodeCamp-Contents-Chrome-Extension/main/thumbnail.png
-  [driftin-deliveries-img]:https://raw.github.com/Aebel-Shajan/Driftin-Deliveries/main/thumbnail.png
+  [img-1]:https://raw.github.com/Aebel-Shajan/connect-cards/main/thumbnail.png
+  [img-2]:https://raw.github.com/Aebel-Shajan/gym-data-analysis/main/thumbnail.png
+  [img-3]:https://raw.github.com/Aebel-Shajan/scroll-minimap-for-chatgpt/main/thumbnail.png
+  [img-4]:https://raw.github.com/Aebel-Shajan/aebel-shajan.github.io/main/thumbnail.png
+  [img-5]:https://raw.github.com/Aebel-Shajan/subway_surfers_screen_reader/main/thumbnail.png
+  [img-6]:https://raw.github.com/Aebel-Shajan/FreeCodeCamp-Contents-Chrome-Extension/main/thumbnail.png
+  [img-7]:https://raw.github.com/Aebel-Shajan/Driftin-Deliveries/main/thumbnail.png
 
 
   <!-- Badges --> 
+  [github-badge]: https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge
   [java-badge]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
   [cpp-badge]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
   [js-badge]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
