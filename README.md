@@ -7,21 +7,17 @@
 
 #### 🔭 Check out my past projects:
 
-|[![][img-1]][dep-1] | [![][img-2]][dep-2] |
-|-|-|
-|<img width=100000/> [![][github-badge]][src-1] |<img width=100000/> [![][github-badge]][src-2] |
+|[![][img-1]][dep-1] | [![][img-2]][dep-2] |  [![][img-3]][dep-3] | 
+|-|-|-|
+|<img width=100000/> [![][github-badge]][src-1] |<img width=100000/> [![][github-badge]][src-2] | <img width=100000/> [![][github-badge]][src-3] |
 
-| [![][img-3]][dep-3] | [![][img-4]][dep-4] |
-|-|-|
-|<img width=100000/> [![][github-badge]][src-3] |<img width=100000/> [![][github-badge]][src-4] |
+|[![][img-4]][dep-4]| [![][img-5]][dep-5] | [![][img-6]][dep-6] |
+|-|-|-|
+|<img width=100000/> [![][github-badge]][src-4] |<img width=100000/> [![][github-badge]][src-5] |<img width=100000/> [![][github-badge]][src-6] |
 
-| [![][img-5]][dep-5] | [![][img-6]][dep-6] |
-|-|-|
-|<img width=100000/> [![][github-badge]][src-5] |<img width=100000/> [![][github-badge]][src-6] |
-
-| [![][img-7]][dep-7] |  |
-|-|-|
-|<img width=100000/> [![][github-badge]][src-1] |<img width=100000/> |
+| [![][img-7]][dep-7] |  | |
+|-|-|-|
+|<img width=100000/> [![][github-badge]][src-1] |<img width=100000/> |<img width=100000/> |
 
 
 #### 
