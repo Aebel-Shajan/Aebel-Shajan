@@ -17,13 +17,13 @@
 
 
 #### 
-|🍳 Skills||
+|🍳 Skills| ![][col-img]|
 |-|-|
 |**Languages**|![][java-badge]![][cpp-badge]![][js-badge]![][python-badge] |
 |**Databases**|![][postgres-badge]|
 |**Tools**|![][vscode-badge]![][intellij-badge]![][git-badge]![][vercel-badge]|
 
-|📚Libraries||
+|📚Libraries| ![][col-img]|
 |-|-|
 |**Javascript**|![][react-badge]![][webpack-badge]![][threejs-badge]|
 |**Java**|![][spring-badge]|
