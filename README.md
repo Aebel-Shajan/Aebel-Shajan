@@ -6,7 +6,7 @@
 [Bright Tasks](https://github.com/KajananGit/To-Do-List)
 
 #### 🔭 Check out my past projects:
-|<img width=100000/> |<img width=100000/>  | <img width=100000/> |
+| ![][col-img] | ![][col-img]  | ![][col-img] |
 |-|-|-|
 |[![][img-1]][dep-1] | [![][img-2]][dep-2] |  [![][img-3]][dep-3] | 
 |[![][github-badge]][src-1] |[![][github-badge]][src-2] | [![][github-badge]][src-3] |
@@ -31,6 +31,10 @@
 
 
 <!-- Assets -->
+  <!-- For equal columns -->
+  [col-img]: https://github.com/user-attachments/assets/fd52a5cf-d0c2-43dd-b53f-7762c124308d
+
+
   <!-- Project deployments -->
   [dep-1]: https://connect-cards.vercel.app
   [dep-2]: https://strong.streamlit.app
