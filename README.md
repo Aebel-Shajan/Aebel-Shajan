@@ -12,8 +12,8 @@
 |[![][github-badge]][src-1] |[![][github-badge]][src-2] | [![][github-badge]][src-3] |
 |[![][img-4]][dep-4]| [![][img-5]][dep-5] | [![][img-6]][dep-6] |
 |[![][github-badge]][src-4] | [![][github-badge]][src-5] | [![][github-badge]][src-6] |
-| [![][img-7]][dep-7] | [![][img-8]][dep-8]  | |
-| [![][github-badge]][src-7] | [![][github-badge]][src-8]| |
+| [![][img-7]][dep-7] | [![][img-8]][dep-8] | [![][img-9]][dep-9] |
+| [![][github-badge]][src-7] | [![][github-badge]][src-8]| [![][github-badge]][src-9] |
 
 
 #### 
@@ -44,6 +44,7 @@
   [dep-6]: https://chromewebstore.google.com/detail/subway-surfers-screen-rea/jcijfneifjnhbgahlokgkmpcnocgpegd
   [dep-7]: https://chromewebstore.google.com/detail/contents-panel-for-fcc/cmogdnmmkblhlbdbppfahmclekapmdjo
   [dep-8]: https://driftin-deliveries.vercel.app/
+  [dep-9]: [https://](https://chromewebstore.google.com/detail/youtube-multitasker/hmaalghckkjijjekbglkebnjhdcebojh)
   
   <!-- Project links -->
   [src-1]:https://github.com/Aebel-Shajan/gitmon-card-generator
@@ -54,7 +55,8 @@
   [src-6]:https://github.com/Aebel-Shajan/subway_surfers_screen_reader
   [src-7]:https://github.com/Aebel-Shajan/FreeCodeCamp-Contents-Chrome-Extension
   [src-8]:https://github.com/Aebel-Shajan/Driftin-Deliveries
-
+  [src-9]:https://github.com/Aebel-Shajan/youtube-multitasker
+  
   <!-- Project thumbnails -->
   [img-1]:https://raw.github.com/Aebel-Shajan/gitmon-card-generator/main/thumbnail.png
   [img-2]:https://raw.github.com/Aebel-Shajan/connect-cards/main/thumbnail.png
@@ -64,6 +66,7 @@
   [img-6]:https://raw.github.com/Aebel-Shajan/subway_surfers_screen_reader/main/thumbnail.png
   [img-7]:https://raw.github.com/Aebel-Shajan/FreeCodeCamp-Contents-Chrome-Extension/main/thumbnail.png
   [img-8]:https://raw.github.com/Aebel-Shajan/Driftin-Deliveries/main/thumbnail.png
+  [img-9]: https://raw.githubusercontent.com/Aebel-Shajan/youtube-multitasker/main/thumbnail.png
 
 
   <!-- Badges --> 
