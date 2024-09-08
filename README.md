@@ -44,7 +44,7 @@
   [dep-6]: https://chromewebstore.google.com/detail/subway-surfers-screen-rea/jcijfneifjnhbgahlokgkmpcnocgpegd
   [dep-7]: https://chromewebstore.google.com/detail/contents-panel-for-fcc/cmogdnmmkblhlbdbppfahmclekapmdjo
   [dep-8]: https://driftin-deliveries.vercel.app/
-  [dep-9]: [https://](https://chromewebstore.google.com/detail/youtube-multitasker/hmaalghckkjijjekbglkebnjhdcebojh)
+  [dep-9]: https://chromewebstore.google.com/detail/youtube-multitasker/hmaalghckkjijjekbglkebnjhdcebojh
   
   <!-- Project links -->
   [src-1]:https://github.com/Aebel-Shajan/gitmon-card-generator
