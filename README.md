@@ -3,7 +3,7 @@
 
 
 #### 🧑‍💻 I am currently working on:
-[Bright Tasks](https://github.com/KajananGit/To-Do-List)
+myself rn
 
 #### 🔭 Check out my past projects:
 | ![][col-img] | ![][col-img]  | ![][col-img] |
