@@ -14,8 +14,9 @@ myself rn
 |[![][github-badge]][src-4] | [![][github-badge]][src-5] | [![][github-badge]][src-6] |
 | [![][img-7]][dep-7] | [![][img-8]][dep-8] | [![][img-9]][dep-9] |
 | [![][github-badge]][src-7] | [![][github-badge]][src-8]| [![][github-badge]][src-9] |
+|![gitmon-aebel-shajan](https://github.com/user-attachments/assets/51f7b771-79d3-4b6e-b35b-df2771dedd8f)|  [![][linked-in]][linked-in-src] <br> [![][twitter]][twitter-src] <br> [![][hacker-rank]][hacker-rank-src] <br> [![][free-code-camp]][free-code-camp-src]
 
-
+<!--
 #### 
 |🍳 Skills| ![][col-img]|
 |-|-|
@@ -28,7 +29,7 @@ myself rn
 |**Javascript**|![][react-badge]![][webpack-badge]![][threejs-badge]|
 |**Java**|![][spring-badge]|
 |**Python**|![][tensorflow-badge]![][scipy-badge]![][pandas-badge]![][matplotlib-badge]![][keras-badge]|
-
+-->
 
 <!-- Assets -->
   <!-- For equal columns -->
@@ -68,8 +69,17 @@ myself rn
   [img-8]:https://raw.github.com/Aebel-Shajan/Driftin-Deliveries/main/thumbnail.png
   [img-9]: https://raw.githubusercontent.com/Aebel-Shajan/youtube-multitasker/main/thumbnail.png
 
+  <!-- Socials -->
+  [twitter]: https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge
+  [twitter-src]: https://x.com/aebel_s
+  [free-code-camp]: https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff&style=for-the-badge
+  [free-code-camp-src]:https://www.freecodecamp.org/Aebel 
+  [hacker-rank]: https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=for-the-badge
+  [hacker-rank-src]: https://www.hackerrank.com/profile/aebelshajan_work
+  [linked-in]: https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge
+  [linked-in-src]:https://www.linkedin.com/in/aebel-shajan/ 
 
-  <!-- Badges --> 
+  <!-- Badges -->   
   [github-badge]: https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge
   [java-badge]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
   [cpp-badge]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
