@@ -1,12 +1,7 @@
-# Helloo  <img  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXdkb2xkY2QwYm56eTk5YzFyc2d5ZmpxcG9renZmMjRqcXN1dzB3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sNC71wDxPr0CgGB8zX/giphy.gif" width="64" height="64" frameBorder="0" class="giphy-embed" allowFullScreen/>                                           ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FAebel-Shajan&s=40&c=000000&bg=00000000&no=5&ff=linebeam&tb=Visits%3A+&ta=)
-# My name's Aebel (pronounced ay-bl).
-
-
-#### 🧑‍💻 I am currently working on:
-myself rn
-
+# <img  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXdkb2xkY2QwYm56eTk5YzFyc2d5ZmpxcG9renZmMjRqcXN1dzB3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sNC71wDxPr0CgGB8zX/giphy.gif" width="32" height="32" allowFullScreen/>  Helloo, My name's Aebel (pronounced ay-bl).  
+![][visits]
 #### 🔭 Check out my past projects:
-| ![][col-img] | ![][col-img]  | ![][col-img] |
+| ![][col-img]| ![][col-img]  | ![][col-img] |
 |-|-|-|
 |[![][img-1]][dep-1] | [![][img-2]][dep-2] |  [![][img-3]][dep-3] | 
 |[![][github-badge]][src-1] |[![][github-badge]][src-2] | [![][github-badge]][src-3] |
@@ -32,13 +27,16 @@ myself rn
 -->
 
 <!-- Assets -->
+  <!-- Other stuff -->
+  [visits]: https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FAebel-Shajan&s=40&c=000000&bg=00000000&no=5&ff=linebeam&tb=Visits%3A+&ta=
+  
   <!-- For equal columns -->
   [col-img]: https://github.com/user-attachments/assets/fd52a5cf-d0c2-43dd-b53f-7762c124308d
 
 
   <!-- Project deployments -->
   [dep-1]: https://gitmon-card-generator.vercel.app
-  [dep-2]: https://connect-cards.vercel.app
+  [dep-2]: https://wocket-weague.vercel.app
   [dep-3]: https://strong.streamlit.app
   [dep-4]: https://chromewebstore.google.com/detail/scroll-minimap-for-chatgp/apekbedjllgmacohbcckgipfhjddehkf
   [dep-5]: https://aebel-shajan.github.io/
@@ -49,7 +47,7 @@ myself rn
   
   <!-- Project links -->
   [src-1]:https://github.com/Aebel-Shajan/gitmon-card-generator
-  [src-2]:https://github.com/Aebel-Shajan/connect-cards
+  [src-2]:https://github.com/Aebel-Shajan/Wocket-Weague
   [src-3]:https://github.com/Aebel-Shajan/gym-data-analysis
   [src-4]:https://github.com/Aebel-Shajan/scroll-minimap-for-chatgpt
   [src-5]:https://github.com/Aebel-Shajan/aebel-shajan.github.io
@@ -60,7 +58,7 @@ myself rn
   
   <!-- Project thumbnails -->
   [img-1]:https://raw.github.com/Aebel-Shajan/gitmon-card-generator/main/thumbnail.png
-  [img-2]:https://raw.github.com/Aebel-Shajan/connect-cards/main/thumbnail.png
+  [img-2]:https://raw.github.com/Aebel-Shajan/Wocket-Weague/main/thumbnail.png
   [img-3]:https://raw.github.com/Aebel-Shajan/gym-data-analysis/main/thumbnail.png
   [img-4]:https://raw.github.com/Aebel-Shajan/scroll-minimap-for-chatgpt/main/thumbnail.png
   [img-5]:https://raw.github.com/Aebel-Shajan/aebel-shajan.github.io/main/thumbnail.png
