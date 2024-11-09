@@ -9,7 +9,7 @@
 |[![][github-badge]][src-4] | [![][github-badge]][src-5] | [![][github-badge]][src-6] |
 | [![][img-7]][dep-7] | [![][img-8]][dep-8] | [![][img-9]][dep-9] |
 | [![][github-badge]][src-7] | [![][github-badge]][src-8]| [![][github-badge]][src-9] |
-|![gitmon-aebel-shajan](https://github.com/user-attachments/assets/51f7b771-79d3-4b6e-b35b-df2771dedd8f)|  [![][linked-in]][linked-in-src] <br> [![][twitter]][twitter-src] <br> [![][hacker-rank]][hacker-rank-src] <br> [![][free-code-camp]][free-code-camp-src]
+|![gitmon-aebel-shajan](https://github.com/user-attachments/assets/51f7b771-79d3-4b6e-b35b-df2771dedd8f)|  [![][linked-in]][linked-in-src] <br> [![][hacker-rank]][hacker-rank-src] <br> [![][free-code-camp]][free-code-camp-src]
 
 <!--
 #### 
