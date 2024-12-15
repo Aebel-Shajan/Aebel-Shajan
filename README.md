@@ -35,37 +35,37 @@
 
 
   <!-- Project deployments -->
-  [dep-1]: https://gitmon-card-generator.vercel.app
-  [dep-2]: https://wocket-weague.vercel.app
-  [dep-3]: https://strong.streamlit.app
-  [dep-4]: https://chromewebstore.google.com/detail/scroll-minimap-for-chatgp/apekbedjllgmacohbcckgipfhjddehkf
-  [dep-5]: https://aebel-shajan.github.io/
-  [dep-6]: https://chromewebstore.google.com/detail/subway-surfers-screen-rea/jcijfneifjnhbgahlokgkmpcnocgpegd
-  [dep-7]: https://chromewebstore.google.com/detail/contents-panel-for-fcc/cmogdnmmkblhlbdbppfahmclekapmdjo
-  [dep-8]: https://driftin-deliveries.vercel.app/
-  [dep-9]: https://chromewebstore.google.com/detail/youtube-multitasker/hmaalghckkjijjekbglkebnjhdcebojh
+  [dep-1]: https://chromewebstore.google.com/detail/yee-mux/fjieejlgkgfmcoelccgobbpcngpnaoph
+  [dep-2]: https://chromewebstore.google.com/detail/subway-surfers-screen-rea/jcijfneifjnhbgahlokgkmpcnocgpegd
+  [dep-3]: https://chromewebstore.google.com/detail/scroll-minimap-for-chatgp/apekbedjllgmacohbcckgipfhjddehkf
+  [dep-4]: https://gitmon-card-generator.vercel.app
+  [dep-5]: https://strong.streamlit.app
+  [dep-6]: https://wocket-weague.vercel.app
+  [dep-7]: https://aebel-shajan.github.io/
+  [dep-8]: https://chromewebstore.google.com/detail/contents-panel-for-fcc/cmogdnmmkblhlbdbppfahmclekapmdjo
+  [dep-9]: https://driftin-deliveries.vercel.app/
   
   <!-- Project links -->
-  [src-1]:https://github.com/Aebel-Shajan/gitmon-card-generator
-  [src-2]:https://github.com/Aebel-Shajan/Wocket-Weague
-  [src-3]:https://github.com/Aebel-Shajan/gym-data-analysis
-  [src-4]:https://github.com/Aebel-Shajan/scroll-minimap-for-chatgpt
-  [src-5]:https://github.com/Aebel-Shajan/aebel-shajan.github.io
-  [src-6]:https://github.com/Aebel-Shajan/subway_surfers_screen_reader
-  [src-7]:https://github.com/Aebel-Shajan/FreeCodeCamp-Contents-Chrome-Extension
-  [src-8]:https://github.com/Aebel-Shajan/Driftin-Deliveries
-  [src-9]:https://github.com/Aebel-Shajan/youtube-multitasker
+  [src-1]:https://github.com/Aebel-Shajan/yee-mux-extension
+  [src-2]:https://github.com/Aebel-Shajan/subway_surfers_screen_reader
+  [src-3]:https://github.com/Aebel-Shajan/scroll-minimap-for-chatgpt
+  [src-4]:https://github.com/Aebel-Shajan/gitmon-card-generator
+  [src-5]:https://github.com/Aebel-Shajan/gym-data-analysis
+  [src-6]:https://github.com/Aebel-Shajan/Wocket-Weague
+  [src-7]:https://github.com/Aebel-Shajan/aebel-shajan.github.io
+  [src-8]:https://github.com/Aebel-Shajan/FreeCodeCamp-Contents-Chrome-Extension
+  [src-9]:https://github.com/Aebel-Shajan/Driftin-Deliveries
   
   <!-- Project thumbnails -->
-  [img-1]:https://raw.github.com/Aebel-Shajan/gitmon-card-generator/main/thumbnail.png
-  [img-2]:https://raw.github.com/Aebel-Shajan/Wocket-Weague/main/thumbnail.png
-  [img-3]:https://raw.github.com/Aebel-Shajan/gym-data-analysis/main/thumbnail.png
-  [img-4]:https://raw.github.com/Aebel-Shajan/scroll-minimap-for-chatgpt/main/thumbnail.png
-  [img-5]:https://raw.github.com/Aebel-Shajan/aebel-shajan.github.io/main/thumbnail.png
-  [img-6]:https://raw.github.com/Aebel-Shajan/subway_surfers_screen_reader/main/thumbnail.png
-  [img-7]:https://raw.github.com/Aebel-Shajan/FreeCodeCamp-Contents-Chrome-Extension/main/thumbnail.png
-  [img-8]:https://raw.github.com/Aebel-Shajan/Driftin-Deliveries/main/thumbnail.png
-  [img-9]: https://raw.githubusercontent.com/Aebel-Shajan/youtube-multitasker/main/thumbnail.png
+  [img-1]: https://raw.github.com/Aebel-Shajan/yee-mux-extension/main/thumbnail.png
+  [img-2]:https://raw.github.com/Aebel-Shajan/subway_surfers_screen_reader/main/thumbnail.png
+  [img-3]:https://raw.github.com/Aebel-Shajan/scroll-minimap-for-chatgpt/main/thumbnail.png
+  [img-4]:https://raw.github.com/Aebel-Shajan/gitmon-card-generator/main/thumbnail.png
+  [img-5]:https://raw.github.com/Aebel-Shajan/gym-data-analysis/main/thumbnail.png
+  [img-6]:https://raw.github.com/Aebel-Shajan/Wocket-Weague/main/thumbnail.png
+  [img-7]:https://raw.github.com/Aebel-Shajan/aebel-shajan.github.io/main/thumbnail.png
+  [img-8]:https://raw.github.com/Aebel-Shajan/FreeCodeCamp-Contents-Chrome-Extension/main/thumbnail.png
+  [img-9]:https://raw.github.com/Aebel-Shajan/Driftin-Deliveries/main/thumbnail.png
 
   <!-- Socials -->
   [twitter]: https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge
