@@ -9,6 +9,8 @@
 |[![][github-badge]][src-4] | [![][github-badge]][src-5] | [![][github-badge]][src-6] |
 | [![][img-7]][dep-7] | [![][img-8]][dep-8] | [![][img-9]][dep-9] |
 | [![][github-badge]][src-7] | [![][github-badge]][src-8]| [![][github-badge]][src-9] |
+| [![][img-10]][dep-10] |  |  |
+| [![][github-badge]][src-10] | | |
 |![gitmon-aebel-shajan](https://github.com/user-attachments/assets/34eced6e-e3d1-4907-b6b7-5334d9a3e360)|  [![][linked-in]][linked-in-src] <br> [![][hacker-rank]][hacker-rank-src] <br> [![][free-code-camp]][free-code-camp-src]
 
 
@@ -36,37 +38,40 @@
 
 
   <!-- Project deployments -->
-  [dep-1]: https://chromewebstore.google.com/detail/yee-mux/fjieejlgkgfmcoelccgobbpcngpnaoph
-  [dep-2]: https://chromewebstore.google.com/detail/subway-surfers-screen-rea/jcijfneifjnhbgahlokgkmpcnocgpegd
-  [dep-3]: https://chromewebstore.google.com/detail/scroll-minimap-for-chatgp/apekbedjllgmacohbcckgipfhjddehkf
-  [dep-4]: https://gitmon-card-generator.vercel.app
-  [dep-5]: https://strong.streamlit.app
-  [dep-6]: https://wocket-weague.vercel.app
-  [dep-7]: https://aebel-shajan.github.io/
-  [dep-8]: https://chromewebstore.google.com/detail/contents-panel-for-fcc/cmogdnmmkblhlbdbppfahmclekapmdjo
-  [dep-9]: https://driftin-deliveries.vercel.app/
+  [dep-1]: https://year-in-data.vercel.app/
+  [dep-2]: https://chromewebstore.google.com/detail/yee-mux/fjieejlgkgfmcoelccgobbpcngpnaoph
+  [dep-3]: https://chromewebstore.google.com/detail/subway-surfers-screen-rea/jcijfneifjnhbgahlokgkmpcnocgpegd
+  [dep-4]: https://chromewebstore.google.com/detail/scroll-minimap-for-chatgp/apekbedjllgmacohbcckgipfhjddehkf
+  [dep-5]: https://gitmon-card-generator.vercel.app
+  [dep-6]: https://strong.streamlit.app
+  [dep-7]: https://wocket-weague.vercel.app
+  [dep-8]: https://aebel-shajan.github.io/
+  [dep-9]: https://chromewebstore.google.com/detail/contents-panel-for-fcc/cmogdnmmkblhlbdbppfahmclekapmdjo
+  [dep-10]: https://driftin-deliveries.vercel.app/
   
   <!-- Project links -->
-  [src-1]:https://github.com/Aebel-Shajan/yee-mux-extension
-  [src-2]:https://github.com/Aebel-Shajan/subway_surfers_screen_reader
-  [src-3]:https://github.com/Aebel-Shajan/scroll-minimap-for-chatgpt
-  [src-4]:https://github.com/Aebel-Shajan/gitmon-card-generator
-  [src-5]:https://github.com/Aebel-Shajan/gym-data-analysis
-  [src-6]:https://github.com/Aebel-Shajan/Wocket-Weague
-  [src-7]:https://github.com/Aebel-Shajan/aebel-shajan.github.io
-  [src-8]:https://github.com/Aebel-Shajan/FreeCodeCamp-Contents-Chrome-Extension
-  [src-9]:https://github.com/Aebel-Shajan/Driftin-Deliveries
+  [src-1]:https://github.com/Aebel-Shajan/year-in-data
+  [src-2]:https://github.com/Aebel-Shajan/yee-mux-extension
+  [src-3]:https://github.com/Aebel-Shajan/subway_surfers_screen_reader
+  [src-4]:https://github.com/Aebel-Shajan/scroll-minimap-for-chatgpt
+  [src-5]:https://github.com/Aebel-Shajan/gitmon-card-generator
+  [src-6]:https://github.com/Aebel-Shajan/gym-data-analysis
+  [src-7]:https://github.com/Aebel-Shajan/Wocket-Weague
+  [src-8]:https://github.com/Aebel-Shajan/aebel-shajan.github.io
+  [src-9]:https://github.com/Aebel-Shajan/FreeCodeCamp-Contents-Chrome-Extension
+  [src-10]:https://github.com/Aebel-Shajan/Driftin-Deliveries
   
   <!-- Project thumbnails -->
-  [img-1]: https://raw.github.com/Aebel-Shajan/yee-mux-extension/main/thumbnail.png
-  [img-2]:https://raw.github.com/Aebel-Shajan/subway_surfers_screen_reader/main/thumbnail.png
-  [img-3]:https://raw.github.com/Aebel-Shajan/scroll-minimap-for-chatgpt/main/thumbnail.png
-  [img-4]:https://raw.github.com/Aebel-Shajan/gitmon-card-generator/main/thumbnail.png
-  [img-5]:https://raw.github.com/Aebel-Shajan/gym-data-analysis/main/thumbnail.png
-  [img-6]:https://raw.github.com/Aebel-Shajan/Wocket-Weague/main/thumbnail.png
-  [img-7]:https://raw.github.com/Aebel-Shajan/aebel-shajan.github.io/main/thumbnail.png
-  [img-8]:https://raw.github.com/Aebel-Shajan/FreeCodeCamp-Contents-Chrome-Extension/main/thumbnail.png
-  [img-9]:https://raw.github.com/Aebel-Shajan/Driftin-Deliveries/main/thumbnail.png
+  [img-1]:https://repository-images.githubusercontent.com/903916918/0f47237c-abc5-45c3-ad78-abcca7206b0a
+  [img-2]:https://raw.github.com/Aebel-Shajan/yee-mux-extension/main/thumbnail.png
+  [img-3]:https://raw.github.com/Aebel-Shajan/subway_surfers_screen_reader/main/thumbnail.png
+  [img-4]:https://raw.github.com/Aebel-Shajan/scroll-minimap-for-chatgpt/main/thumbnail.png
+  [img-5]:https://raw.github.com/Aebel-Shajan/gitmon-card-generator/main/thumbnail.png
+  [img-6]:https://raw.github.com/Aebel-Shajan/gym-data-analysis/main/thumbnail.png
+  [img-7]:https://raw.github.com/Aebel-Shajan/Wocket-Weague/main/thumbnail.png
+  [img-8]:https://raw.github.com/Aebel-Shajan/aebel-shajan.github.io/main/thumbnail.png
+  [img-9]:https://raw.github.com/Aebel-Shajan/FreeCodeCamp-Contents-Chrome-Extension/main/thumbnail.png
+  [img-10]:https://raw.github.com/Aebel-Shajan/Driftin-Deliveries/main/thumbnail.png
 
   <!-- Socials -->
   [twitter]: https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge
