@@ -11,8 +11,6 @@
 | [![][github-badge]][src-7] | [![][github-badge]][src-8]| [![][github-badge]][src-9] |
 | [![][img-10]][dep-10] |  |  |
 | [![][github-badge]][src-10] | | |
-|![gitmon-aebel-shajan](https://github.com/user-attachments/assets/34eced6e-e3d1-4907-b6b7-5334d9a3e360)|  [![][linked-in]][linked-in-src] <br> [![][hacker-rank]][hacker-rank-src] <br> [![][free-code-camp]][free-code-camp-src]
-
 
 <!--
 #### 
