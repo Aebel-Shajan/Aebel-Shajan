@@ -35,7 +35,7 @@
 
 
   <!-- Project deployments -->
-  [dep-1]: https://year-in-data.vercel.app/
+  [dep-1]: https://aebel-shajan.github.io/year-in-data
   [dep-2]: https://chromewebstore.google.com/detail/subway-surfers-screen-rea/jcijfneifjnhbgahlokgkmpcnocgpegd
   [dep-3]: https://chromewebstore.google.com/detail/scroll-minimap-for-chatgp/apekbedjllgmacohbcckgipfhjddehkf
   [dep-4]: https://gitmon-card-generator.vercel.app
