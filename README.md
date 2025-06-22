@@ -1,14 +1,13 @@
-# <img  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXdkb2xkY2QwYm56eTk5YzFyc2d5ZmpxcG9renZmMjRqcXN1dzB3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sNC71wDxPr0CgGB8zX/giphy.gif" width="32" height="32" allowFullScreen/>  Helloo, My name's Aebel (pronounced ay-bl).  
+
 ![][visits]
-#### 🔭 Check out my past projects:
+
 | ![][col-img]| ![][col-img]  | ![][col-img] |
 |-|-|-|
 |[![][img-1]][dep-1] | [![][img-2]][dep-2] |  [![][img-3]][dep-3] | 
 |[![][github-badge]][src-1] |[![][github-badge]][src-2] | [![][github-badge]][src-3] |
-|[![][img-4]][dep-4]| [![][img-5]][dep-5] | [![][img-6]][dep-6] |
-|[![][github-badge]][src-4] | [![][github-badge]][src-5] | [![][github-badge]][src-6] |
-| [![][img-7]][dep-7] | [![][img-8]][dep-8] | [![][img-9]][dep-9] |
-| [![][github-badge]][src-7] | [![][github-badge]][src-8]| [![][github-badge]][src-9] |
+|[![][img-4]][dep-4]|  [![][img-7]][dep-7] |
+|[![][github-badge]][src-4] | [![][github-badge]][src-7] |
+
 
 
 <!--
