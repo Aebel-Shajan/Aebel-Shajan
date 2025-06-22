@@ -3,10 +3,8 @@
 
 | ![][col-img]| ![][col-img]  | ![][col-img] |
 |-|-|-|
-|[![][img-1]][dep-1] | [![][img-2]][dep-2] |  [![][img-3]][dep-3] | 
-|[![][github-badge]][src-1] |[![][github-badge]][src-2] | [![][github-badge]][src-3] |
-|[![][img-4]][dep-4]|  [![][img-7]][dep-7] |
-|[![][github-badge]][src-4] | [![][github-badge]][src-7] |
+|[![][img-1]][dep-1] [![][github-badge]][src-1] | [![][img-2]][dep-2] [![][github-badge]][src-2] |  [![][img-3]][dep-3] [![][github-badge]][src-3]| 
+|[![][img-4]][dep-4] [![][github-badge]][src-4]|  [![][img-7]][dep-7] [![][github-badge]][src-7] |
 
 
 
